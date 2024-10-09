@@ -1,0 +1,6 @@
+{
+  "style": {
+    "rootDirs": ["./src"],
+    "outDir": "./dist/"
+  }
+}
