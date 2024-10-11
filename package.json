@@ -7,6 +7,6 @@
     "build": "node index.js"
   },
   "dependencies": {
-    "@opdev1004/cssfactory": "^0.0.3"
+    "@opdev1004/cssfactory": "^0.0.5"
   }
 }
